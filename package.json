@@ -1,0 +1,16 @@
+{
+  "name": "norwegian-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Willemot",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "chalk-rainbow": "^1.0.0",
+    "osmosis": "^1.1.2"
+  }
+}
